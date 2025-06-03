@@ -1,28 +1,107 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/51094208?v=4" width="120" style="border-radius:50%" alt="avatar"/>
-</p>
-
-<h1 align="center">🌟 Welcome to My GitHub Profile! 🌟</h1>
-
-<p align="center">
-  <a href="CV_VN_DoanNgocThanh.md">🇻🇳 CV Tiếng Việt</a> &nbsp;|&nbsp;
-  <a href="CV_EN_DoanNgocThanh.md">🇬🇧 CV English</a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;Welcome+to+my+GitHub!;Full+Stack+Developer;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/doanngocthanh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/%C4%91o%C3%A0n-ng%E1%BB%8Dc-th%C3%A0nh-b48717218/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://buymeacoffee.com/ngocthanhdoan">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
-  </a>
+    <img src="https://avatars.githubusercontent.com/u/51094208?v=4" width="120" style="border-radius:50%" alt="avatar"/>
 </p>
+
+<h1 align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    🌟 Welcome to My GitHub Profile! 🌟
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<p align="center">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+</p>
+
+<div align="center">
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10"> 
+    <strong>Quick Navigation</strong>
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10">
+</div>
+
+<p align="center">
+    <a href="CV_VN_DoanNgocThanh.md">
+        <img src="https://img.shields.io/badge/🇻🇳%20CV%20Tiếng%20Việt-FF6B6B?style=for-the-badge&logo=readme&logoColor=white&labelColor=FF6B6B&color=FFE66D" alt="CV Tiếng Việt"/>
+    </a>
+    <a href="CV_EN_DoanNgocThanh.md">
+        <img src="https://img.shields.io/badge/🇬🇧%20CV%20English-4ECDC4?style=for-the-badge&logo=readme&logoColor=white&labelColor=4ECDC4&color=45B7D1" alt="CV English"/>
+    </a>
+</p>
+
+<div align="center">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="500px"/>
+</div>
+
+<p align="center">
+    <a href="CV_VN_DoanNgocThanh.pdf" download>
+        <img src="https://custom-icon-badges.demolab.com/badge/Tải%20CV%20Tiếng%20Việt-4CAF50.svg?style=for-the-badge&logo=download&logoColor=white" alt="Tải CV Tiếng Việt"/>
+    </a>
+    <a href="CV_EN_DoanNgocThanh.pdf" download>
+        <img src="https://custom-icon-badges.demolab.com/badge/Download%20CV%20English-2196F3.svg?style=for-the-badge&logo=download&logoColor=white" alt="Download CV English"/>
+    </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+    <h3>
+        <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+        Connect with me 
+        <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-left: 10px;">
+    </h3>
+</div>
+
+<p align="center">
+    <a href="https://github.com/doanngocthanh">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/%C4%91o%C3%A0n-ng%E1%BB%8Dc-th%C3%A0nh-b48717218/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://buymeacoffee.com/ngocthanhdoan">
+        <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+    </a>
+</p>
+
+<div align="center">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="300">
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+    <h3>
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+        Tech Stack & Tools
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    </h3>
+</div>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,java,git,docker,aws&theme=dark" />
+</p>
+
+<div align="center">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="300">
+</div>
 
 ---
 
+<div align="center">
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+    <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+</div>
+
 <p align="center">
-  ✨ <i>Feel free to connect and check out my CVs!</i> ✨
+    ✨ <i>Feel free to connect and check out my CVs!</i> ✨
 </p>
+
+<div align="center">
+    <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
