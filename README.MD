@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/51094208?v=4" width="150" style="border-radius:50%" alt="avatar"/>
+    <img src="https://avatars.githubusercontent.com/u/43934253?v=4" width="150" style="border-radius:50%" alt="avatar"/>
 </p>
 
 <h1 align="center">Đoàn Ngọc Thành</h1>
